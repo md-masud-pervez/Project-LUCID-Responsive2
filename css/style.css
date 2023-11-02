@@ -515,7 +515,10 @@ body{
     font-size: 25px;
     margin-bottom: 20px;
 }
-.info p{
+.info a{
+    text-decoration: none;
+}
+.info  p{
     color: #999999;
     margin: 0;
 }
